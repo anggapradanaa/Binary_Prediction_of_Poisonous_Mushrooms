@@ -110,7 +110,7 @@ plot_skewness(df_train[numerical_feature], "After Transformation")
 
 
     
-![png](output_9_1.png)
+<img src = 'https://github.com/anggapradanaa/Binary_Prediction_of_Poisonous_Mushrooms/blob/main/results%20of%20handling%20skewness%20in%20training%20data.png'>
     
 
 
